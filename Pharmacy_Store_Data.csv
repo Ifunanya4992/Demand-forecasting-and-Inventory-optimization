@@ -1,0 +1,701 @@
+Transaction_Date,Drug_Name,Category,Quantity_Sold,Stock_On_Hand,Expiry_Date,Unit_Cost,Supplier
+2024-04-23,Susp Hydralazine 5ml/125mg,Anti-Hypertensive,14,134,2027-01-23,835,Emzor
+2023-06-28,Inf Glibenclamide 5ml/250mg,Anti-Diabetic,28,157,2027-10-27,251,MegaCare
+2025-09-30,Syrup Pentazocine 5ml/250mg,Analgesics,15,127,2028-02-29,827,MegaCare
+2025-07-02,Cap Paracetamol 1g,Analgesics,32,151,2028-06-09,929,Emzor
+2025-08-21,Cap Oxytocin 500mg,Specialty/Emergency,45,149,2026-12-19,218,MegaCare
+2025-11-28,Inj Normal Saline 500mg,IV Fluids,9,112,2028-02-17,792,Swiss Pharma
+2024-08-16,Ear Drops Esomeprazole 5mg,Anti-Ulcer,49,140,2027-07-26,524,GSK
+2023-07-11,HIV Kit (10ml),Lab/Reagents,3,148,2028-08-19,269,MegaCare
+2023-01-27,Inf Amoxicillin 500mg,Antibiotics,44,172,2027-04-19,646,MegaCare
+2025-04-07,Gutt Chloramphenicol 1g,Drops/Topicals,34,155,2027-09-26,605,Juhel
+2024-01-15,Inj Magnesium Trisilicate 20mg,Anti-Ulcer,3,118,2027-10-17,922,Swiss Pharma
+2023-06-26,Susp Artemether/Lumefantrine 10mg,Anti-Malaria,36,161,2028-09-12,555,GSK
+2023-07-01,Inj Magnesium Trisilicate 5ml/125mg,Anti-Ulcer,20,32,2027-05-10,564,Emzor
+2025-12-03,Tab Silver Sulphadiazine 20mg,Drops/Topicals,10,155,2028-01-24,183,GSK
+2023-09-30,Inf Artesunate 5ml/125mg,Anti-Malaria,3,160,2027-07-16,794,Juhel
+2025-10-08,Susp Insulin (Mixed) 1g,Anti-Diabetic,13,149,2028-10-13,508,Emzor
+2026-01-09,Ear Drops Artesunate 50mg,Anti-Malaria,12,105,2028-08-15,873,Emzor
+2023-01-06,Cap Insulin (Mixed) 5ml/125mg,Anti-Diabetic,19,139,2027-05-24,420,Swiss Pharma
+2025-07-22,Inf Losartan 1%,Anti-Hypertensive,12,161,2027-06-03,197,Juhel
+2025-02-12,Inj Paracetamol 1g,Analgesics,13,173,2028-08-22,696,Juhel
+2024-09-23,Syrup Hydralazine 1%,Anti-Hypertensive,15,162,2027-05-03,884,Swiss Pharma
+2025-10-31,Syrup Adrenaline 5ml/250mg,Specialty/Emergency,24,149,2027-07-14,934,Emzor
+2023-06-08,Face Mask (5ml),Surgicals,44,187,2027-01-24,213,Fidson
+2026-01-23,Inf Quinine 20mg,Anti-Malaria,7,117,2027-04-27,841,Juhel
+2023-03-31,Gutt Diclofenac 5ml/250mg,Analgesics,43,134,2027-01-24,805,Swiss Pharma
+2023-10-24,Oin Silver Sulphadiazine 2g,Drops/Topicals,25,177,2027-07-20,668,Juhel
+2024-03-26,Gutt Oxytocin 1%,Specialty/Emergency,19,135,2027-09-02,449,Juhel
+2025-12-28,Inf Gentamicin 1%,Antibiotics,9,197,2028-10-15,890,MegaCare
+2023-05-01,Inf Silver Sulphadiazine 100mg,Drops/Topicals,21,134,2028-07-12,689,MegaCare
+2025-11-09,Tab Ringers Lactate 250mg,IV Fluids,40,167,2028-08-07,150,Fidson
+2024-04-08,Susp Atropine 5ml/125mg,Specialty/Emergency,25,191,2028-09-28,623,Swiss Pharma
+2025-03-25,Syrup Dextrose 5% 5ml/125mg,IV Fluids,1,130,2027-05-21,102,Fidson
+2026-01-11,Urinalysis Strip (Size 7.5),Lab/Reagents,32,167,2028-09-06,817,Fidson
+2023-04-05,Surgical Gloves (Roll),Surgicals,9,146,2026-09-20,862,Emzor
+2025-03-05,Susp Paracetamol 250mg,Analgesics,22,160,2026-10-23,435,Juhel
+2023-09-22,Face Mask (Pack of 50),Surgicals,7,164,2027-04-11,208,MegaCare
+2023-01-02,Oin Omeprazole 10mg,Anti-Ulcer,30,199,2027-11-29,228,GSK
+2023-09-11,Susp Insulin (Mixed) 10mg,Anti-Diabetic,39,155,2026-08-09,333,Emzor
+2025-05-15,Tab Adrenaline 0.5%,Specialty/Emergency,16,176,2028-12-24,943,Fidson
+2025-10-26,Gutt Atropine 20mg,Specialty/Emergency,49,135,2027-12-16,642,GSK
+2023-04-27,Malaria RDT (2ml),Lab/Reagents,49,166,2028-01-22,509,MegaCare
+2025-04-21,Ear Drops Cimetidine 5ml/125mg,Anti-Ulcer,16,121,2027-05-27,374,Juhel
+2026-01-29,Oin Normal Saline 10mg,IV Fluids,16,137,2027-12-11,531,GSK
+2025-08-04,Surgical Gloves (5ml),Surgicals,11,198,2027-11-13,587,Fidson
+2023-09-17,Inf Morphine 0.5%,Analgesics,25,146,2029-01-02,144,MegaCare
+2025-04-17,IV Cannula (Size 7.0),Surgicals,44,180,2025-05-05,575,MegaCare
+2023-11-05,Susp Artemether/Lumefantrine 500mg,Anti-Malaria,2,129,2027-04-03,511,Swiss Pharma
+2025-06-16,Oin Amlodipine 100mg,Anti-Hypertensive,11,153,2027-04-02,420,GSK
+2026-03-12,Syrup Hydrocortisone 250mg,Drops/Topicals,8,118,2027-10-10,433,GSK
+2024-08-31,Inj Insulin (Soluble) 100mg,Anti-Diabetic,39,162,2027-12-22,552,Emzor
+2025-01-01,Cap Morphine 1g,Analgesics,28,15,2027-07-21,604,MegaCare
+2025-07-25,Cap Insulin (Soluble) 0.5%,Anti-Diabetic,16,177,2027-07-18,669,GSK
+2025-07-29,Ear Drops Lisinopril 2g,Anti-Hypertensive,12,182,2025-05-06,147,MegaCare
+2024-09-03,Ear Drops Hydralazine 500mg,Anti-Hypertensive,22,184,2026-05-11,360,Swiss Pharma
+2025-05-29,Syrup Glibenclamide 2g,Anti-Diabetic,47,131,2028-01-10,328,GSK
+2023-06-07,Inf Artesunate 1%,Anti-Malaria,20,174,2028-06-01,263,Juhel
+2023-09-02,Susp Morphine 5ml/250mg,Analgesics,50,146,2028-07-08,711,Fidson
+2024-08-05,Susp Sulfadoxine/Pyrimethamine 20mg,Anti-Malaria,2,165,2027-05-26,734,Fidson
+2024-04-26,Inj Ketamine 100mg,Specialty/Emergency,30,152,2028-03-12,148,Swiss Pharma
+2026-01-22,Inj Losartan 20mg,Anti-Hypertensive,39,190,2027-08-20,951,Emzor
+2024-12-06,Hepatitis B Strip (Pack of 50),Lab/Reagents,8,138,2027-11-09,874,Emzor
+2023-11-21,Tab Ceftriaxone 1%,Antibiotics,23,170,2027-07-27,873,GSK
+2023-12-13,Cotton Wool (5ml),Surgicals,22,117,2027-04-24,358,Juhel
+2025-05-12,Inj Diclofenac 5ml/250mg,Analgesics,3,137,2027-09-15,342,Emzor
+2024-04-22,Cap Metformin 500mg,Anti-Diabetic,19,167,2027-08-09,793,Swiss Pharma
+2023-06-22,Tab Ciprofloxacin 1g,Antibiotics,8,145,2027-05-29,428,Juhel
+2024-08-14,Cap Losartan 0.5%,Anti-Hypertensive,33,127,2028-09-22,320,GSK
+2025-11-11,Inh Cimetidine 2g,Anti-Ulcer,26,6,2028-12-03,119,Emzor
+2025-08-21,Susp Adrenaline 500mg,Specialty/Emergency,45,109,2027-10-15,485,GSK
+2024-09-28,Inh Metronidazole Infusion 2g,IV Fluids,39,188,2028-05-07,126,GSK
+2024-04-10,Oin Ibuprofen 1%,Analgesics,49,194,2026-12-25,387,Emzor
+2026-01-31,Tab Pentazocine 50mg,Analgesics,8,164,2027-04-28,793,Emzor
+2023-07-13,Gutt Lisinopril 100mg,Anti-Hypertensive,20,117,2028-07-07,370,Juhel
+2024-10-01,Susp Pentazocine 0.5%,Analgesics,23,119,2027-10-27,309,Swiss Pharma
+2025-06-27,Inj Magnesium Trisilicate 0.5%,Anti-Ulcer,32,113,2028-03-08,666,GSK
+2025-11-04,Susp Chloramphenicol 0.5%,Drops/Topicals,22,148,2027-12-23,325,Emzor
+2023-06-09,Oin Ranitidine 20mg,Anti-Ulcer,7,195,2027-06-18,180,MegaCare
+2025-05-07,Inj Amlodipine 250mg,Anti-Hypertensive,33,107,2026-05-18,227,MegaCare
+2023-12-14,Oin Ceftriaxone 100mg,Antibiotics,10,126,2027-08-07,527,Juhel
+2024-11-17,Inf Methyldopa 20mg,Anti-Hypertensive,18,139,2027-11-04,313,MegaCare
+2025-01-21,Ear Drops Diazepam 2g,Specialty/Emergency,31,152,2028-04-21,394,Juhel
+2023-01-15,Syrup Ciprofloxacin 20mg,Antibiotics,13,136,2027-02-01,841,MegaCare
+2026-03-19,Inj Glimepiride 5ml/250mg,Anti-Diabetic,11,154,2026-12-19,373,Juhel
+2023-12-15,Tab Clindamycin 500mg,Antibiotics,15,172,2027-11-21,747,Juhel
+2024-01-23,Cap Diclofenac 1g,Analgesics,50,181,2026-11-27,295,Emzor
+2023-07-30,Inh Silver Sulphadiazine 50mg,Drops/Topicals,45,166,2027-04-12,601,Juhel
+2025-12-07,Inf Lisinopril 1%,Anti-Hypertensive,3,161,2027-03-03,163,Juhel
+2025-04-12,Syrup Gentamicin 20mg,Drops/Topicals,42,175,2027-03-20,248,MegaCare
+2023-04-26,Susp Metronidazole 1%,Antibiotics,39,121,2028-10-20,142,Emzor
+2024-06-22,Inf Azithromycin 5ml/250mg,Antibiotics,14,110,2027-01-21,648,Swiss Pharma
+2026-03-26,Cap Ciprofloxacin 5ml/125mg,Antibiotics,47,162,2028-03-11,354,MegaCare
+2023-10-15,Ear Drops Azithromycin 500mg,Antibiotics,37,105,2027-02-06,117,Swiss Pharma
+2024-07-27,Tab Adrenaline 20mg,Specialty/Emergency,2,123,2027-02-22,309,MegaCare
+2025-06-08,Cap Ringers Lactate 10mg,IV Fluids,21,118,2029-01-03,977,Juhel
+2024-04-12,Ear Drops Quinine 250mg,Anti-Malaria,20,190,2028-12-21,383,MegaCare
+2023-09-25,Inf Insulin (Mixed) 250mg,Anti-Diabetic,22,8,2028-05-25,364,Juhel
+2025-06-21,Oin Adrenaline 1%,Specialty/Emergency,34,174,2026-04-30,833,Emzor
+2024-12-14,Syrup Azithromycin 2g,Antibiotics,29,127,2025-10-31,672,Swiss Pharma
+2024-11-20,Inh Oxytocin 5ml/250mg,Specialty/Emergency,9,136,2028-06-01,921,Fidson
+2024-10-20,Malaria RDT (Size 7.5),Lab/Reagents,44,169,2028-08-23,523,MegaCare
+2024-01-30,Giving Set (Roll),Surgicals,29,144,2026-12-21,570,Swiss Pharma
+2024-03-13,Surgical Gloves (Size 7.5),Surgicals,9,111,2028-01-22,431,Swiss Pharma
+2023-12-25,Giving Set (Size 7.5),Surgicals,1,188,2028-04-16,394,Juhel
+2025-06-15,Inf Adrenaline 5mg,Specialty/Emergency,17,121,2027-11-27,603,Fidson
+2024-04-19,Gutt Nifedipine 250mg,Anti-Hypertensive,34,143,2026-11-17,141,Juhel
+2025-07-01,Ear Drops Ciprofloxacin 250mg,Antibiotics,41,194,2027-02-22,835,Juhel
+2023-07-29,Inf Ketamine 0.5%,Specialty/Emergency,21,197,2025-08-08,921,GSK
+2026-03-25,Susp Magnesium Trisilicate 1%,Anti-Ulcer,12,115,2027-07-05,598,Juhel
+2025-06-26,Oin Ketamine 5ml/125mg,Specialty/Emergency,46,165,2026-12-25,628,GSK
+2025-01-20,Oin Atropine 5ml/250mg,Specialty/Emergency,50,122,2027-06-12,913,GSK
+2025-11-21,Cap Ketamine 500mg,Specialty/Emergency,22,144,2026-07-10,448,Swiss Pharma
+2024-07-27,Ear Drops Insulin (Mixed) 1%,Anti-Diabetic,29,181,2026-07-13,505,Fidson
+2023-11-30,Cap Ringers Lactate 100mg,IV Fluids,30,128,2027-02-03,777,Emzor
+2023-05-01,Susp Artesunate 5ml/250mg,Anti-Malaria,13,34,2027-03-18,183,GSK
+2024-04-11,Ear Drops Esomeprazole 20mg,Anti-Ulcer,29,108,2027-11-02,806,Juhel
+2023-10-13,Inh Atropine 250mg,Specialty/Emergency,23,176,2027-09-05,136,Swiss Pharma
+2024-02-02,Cap Morphine 20mg,Analgesics,14,184,2028-03-20,667,Emzor
+2023-09-14,Oin Propofol 0.5%,Specialty/Emergency,47,186,2026-12-01,115,GSK
+2023-04-25,Susp Insulin (Mixed) 5ml/125mg,Anti-Diabetic,20,136,2028-07-14,383,MegaCare
+2023-09-17,Syrup Magnesium Trisilicate 1g,Anti-Ulcer,43,192,2028-05-19,306,Juhel
+2025-07-17,Gutt Azithromycin 100mg,Antibiotics,4,177,2028-11-24,995,Juhel
+2023-02-04,Tab Paracetamol 5ml/250mg,Analgesics,10,120,2026-06-25,834,Fidson
+2025-10-24,Oin Ranitidine 5ml/250mg,Anti-Ulcer,21,113,2026-12-28,429,Fidson
+2025-10-10,Ear Drops Ranitidine 5ml/250mg,Anti-Ulcer,9,197,2027-03-27,568,Swiss Pharma
+2023-06-15,Oin Dextrose Saline 20mg,IV Fluids,43,116,2028-04-06,858,MegaCare
+2025-11-30,HIV Kit (Roll),Lab/Reagents,34,140,2027-12-21,569,Fidson
+2025-09-11,Cap Magnesium Trisilicate 2g,Anti-Ulcer,32,139,2028-06-01,572,GSK
+2025-08-29,Inh Ketamine 5ml/250mg,Specialty/Emergency,29,120,2027-05-16,399,MegaCare
+2024-09-24,Inf Ceftriaxone 1g,Antibiotics,37,160,2026-11-23,966,Fidson
+2024-04-26,Oin Quinine 100mg,Anti-Malaria,22,163,2028-04-23,320,Swiss Pharma
+2024-12-16,Ear Drops Artesunate 5mg,Anti-Malaria,50,41,2027-11-14,319,MegaCare
+2023-10-26,Syrup Glimepiride 20mg,Anti-Diabetic,43,150,2027-08-31,544,GSK
+2025-02-01,Inj Dextrose Saline 5mg,IV Fluids,48,105,2028-11-21,672,MegaCare
+2023-11-21,Susp Ranitidine 10mg,Anti-Ulcer,24,163,2025-11-26,840,Juhel
+2023-09-08,Face Mask (Size 7.0),Surgicals,5,5,2026-09-21,612,Emzor
+2025-09-22,Susp Artesunate 10mg,Anti-Malaria,36,117,2028-04-24,153,Fidson
+2024-01-16,Tab Artesunate 5ml/125mg,Anti-Malaria,11,100,2027-11-21,485,Swiss Pharma
+2023-06-18,HIV Kit (Size 7.5),Lab/Reagents,41,177,2028-06-16,354,MegaCare
+2026-01-02,Syrup Clindamycin 250mg,Antibiotics,14,1,2026-10-10,715,Emzor
+2025-10-28,Susp Ranitidine 20mg,Anti-Ulcer,39,123,2028-02-19,745,GSK
+2024-06-18,Tab Ciprofloxacin 10mg,Drops/Topicals,14,153,2028-06-04,790,Swiss Pharma
+2025-04-25,Giving Set (Pack of 50),Surgicals,3,160,2028-02-10,165,Fidson
+2025-08-02,Ear Drops Propofol 10mg,Specialty/Emergency,3,186,2025-10-05,860,Fidson
+2023-09-22,Oin Dextrose 5% 10mg,IV Fluids,33,195,2027-04-21,821,Emzor
+2023-12-16,Ear Drops Quinine 5ml/125mg,Anti-Malaria,41,19,2027-04-23,399,Fidson
+2025-10-02,Cap Insulin (Soluble) 500mg,Anti-Diabetic,39,191,2027-11-03,545,Fidson
+2023-04-10,Syrup Insulin (Soluble) 100mg,Anti-Diabetic,8,23,2027-06-11,569,Swiss Pharma
+2024-07-14,Oin Glibenclamide 1g,Anti-Diabetic,1,128,2027-05-05,243,GSK
+2025-01-10,Syrup Glibenclamide 1%,Anti-Diabetic,9,142,2028-11-08,766,Emzor
+2024-11-26,Cap Chloramphenicol 2g,Drops/Topicals,6,175,2028-04-15,280,Emzor
+2024-05-27,Gutt Dextrose Saline 500mg,IV Fluids,14,117,2028-03-19,216,MegaCare
+2024-06-06,Cap Dextrose 5% 5ml/125mg,IV Fluids,39,117,2027-08-17,483,GSK
+2023-11-16,Syrup Quinine 5mg,Anti-Malaria,4,118,2027-08-11,937,Swiss Pharma
+2023-11-19,Inf Atropine 5ml/250mg,Specialty/Emergency,33,122,2028-02-28,399,Swiss Pharma
+2025-01-28,Tab Esomeprazole 500mg,Anti-Ulcer,27,150,2026-04-05,749,Swiss Pharma
+2024-11-21,Tab Dextrose Saline 5ml/125mg,IV Fluids,42,140,2027-01-20,179,Fidson
+2023-02-08,Gutt Omeprazole 500mg,Anti-Ulcer,22,161,2027-11-17,412,Juhel
+2024-08-22,Hepatitis B Strip (2ml),Lab/Reagents,3,154,2025-12-01,733,Swiss Pharma
+2024-08-05,Hepatitis B Strip (Size 7.0),Lab/Reagents,15,128,2027-09-15,611,MegaCare
+2024-05-28,Gutt Cimetidine 250mg,Anti-Ulcer,50,106,2028-02-23,320,Fidson
+2024-11-18,Inf Cimetidine 100mg,Anti-Ulcer,42,136,2028-04-30,455,GSK
+2024-03-31,Cap Esomeprazole 250mg,Anti-Ulcer,42,170,2028-08-30,664,Emzor
+2023-03-08,Tab Chloramphenicol 250mg,Drops/Topicals,25,134,2027-01-14,259,Swiss Pharma
+2023-04-10,Cap Ranitidine 5ml/125mg,Anti-Ulcer,46,172,2027-01-08,773,Fidson
+2025-10-20,Inf Ibuprofen 1%,Analgesics,9,153,2026-10-17,361,Emzor
+2024-04-04,Inf Dextrose Saline 20mg,IV Fluids,43,197,2026-12-17,387,Juhel
+2025-10-29,Syrup Dextrose Saline 250mg,IV Fluids,41,151,2027-05-25,587,Fidson
+2024-03-27,Inh Ceftriaxone 250mg,Antibiotics,18,113,2027-07-03,105,MegaCare
+2025-04-13,Inh Ibuprofen 2g,Analgesics,34,174,2028-05-18,814,Emzor
+2023-07-11,Gutt Sulfadoxine/Pyrimethamine 500mg,Anti-Malaria,14,171,2027-10-12,844,Emzor
+2025-12-25,Urinalysis Strip (2ml),Lab/Reagents,39,166,2028-04-30,311,GSK
+2024-02-15,Oin Hydrocortisone 10mg,Drops/Topicals,19,157,2028-12-12,561,Fidson
+2024-07-07,Inj Diazepam 2g,Specialty/Emergency,34,125,2027-05-02,900,Emzor
+2025-04-02,Cap Losartan 250mg,Anti-Hypertensive,32,161,2026-04-17,928,Juhel
+2023-10-12,Susp Insulin (Mixed) 100mg,Anti-Diabetic,5,145,2027-07-12,994,Emzor
+2023-03-11,Ear Drops Magnesium Trisilicate 500mg,Anti-Ulcer,18,37,2028-01-22,607,GSK
+2024-05-04,Susp Esomeprazole 0.5%,Anti-Ulcer,28,161,2027-10-30,412,Emzor
+2023-12-31,Cotton Wool (Size 7.5),Surgicals,18,174,2026-06-23,522,Swiss Pharma
+2024-10-10,Susp Ciprofloxacin 500mg,Drops/Topicals,8,171,2027-12-24,487,Swiss Pharma
+2025-05-01,Oin Propofol 100mg,Specialty/Emergency,5,158,2027-07-22,435,Swiss Pharma
+2023-07-23,Susp Diclofenac 20mg,Analgesics,49,181,2027-09-22,576,Fidson
+2023-06-10,Inf Diazepam 5ml/125mg,Specialty/Emergency,26,124,2027-01-09,426,MegaCare
+2024-04-10,Cap Normal Saline 250mg,IV Fluids,38,150,2028-12-22,189,Emzor
+2025-01-30,Ear Drops Paracetamol 5mg,Analgesics,27,105,2028-01-26,520,Swiss Pharma
+2024-11-21,Cap Magnesium Trisilicate 500mg,Anti-Ulcer,26,177,2028-03-24,863,Emzor
+2024-03-29,Inf Chloramphenicol 5mg,Drops/Topicals,26,197,2026-04-17,903,Fidson
+2025-07-05,Inf Insulin (Soluble) 100mg,Anti-Diabetic,26,102,2028-12-27,511,Juhel
+2025-07-02,Surgical Gloves (2ml),Surgicals,34,139,2026-07-30,976,Fidson
+2026-01-19,Tab Hydralazine 1g,Anti-Hypertensive,3,168,2028-06-25,830,Juhel
+2025-06-09,Syrup Sulfadoxine/Pyrimethamine 1%,Anti-Malaria,29,144,2026-11-04,105,Swiss Pharma
+2023-08-30,Inj Morphine 500mg,Analgesics,49,122,2028-06-02,802,Emzor
+2023-12-01,Inj Gentamicin 250mg,Drops/Topicals,10,117,2028-09-02,442,Juhel
+2025-12-23,Cap Hydrocortisone 5ml/250mg,Drops/Topicals,18,114,2028-06-12,218,Emzor
+2026-01-23,Syrup Dextrose Saline 5ml/250mg,IV Fluids,27,169,2027-03-20,543,Fidson
+2023-04-23,Face Mask (Size 7.5),Surgicals,3,177,2027-10-23,846,Emzor
+2025-10-25,Inj Chloramphenicol 20mg,Drops/Topicals,42,150,2027-08-30,130,Fidson
+2023-04-29,Gutt Dextrose Saline 5ml/125mg,IV Fluids,49,113,2027-03-29,688,Fidson
+2025-04-27,Giving Set (2ml),Surgicals,40,101,2026-10-26,531,Emzor
+2025-09-15,Inh Artesunate 20mg,Anti-Malaria,27,30,2027-09-03,777,GSK
+2024-03-01,Susp Lisinopril 500mg,Anti-Hypertensive,7,196,2026-08-02,866,Swiss Pharma
+2025-08-21,Inf Metformin 50mg,Anti-Diabetic,8,129,2026-05-19,880,Emzor
+2025-01-14,Inh Magnesium Trisilicate 2g,Anti-Ulcer,50,102,2027-11-29,653,Fidson
+2024-12-01,Tab Insulin (Soluble) 20mg,Anti-Diabetic,26,191,2028-06-21,540,Swiss Pharma
+2023-03-30,Inh Magnesium Trisilicate 1g,Anti-Ulcer,36,151,2028-02-04,104,Swiss Pharma
+2025-07-12,Cap Cimetidine 5ml/250mg,Anti-Ulcer,17,103,2027-06-26,679,Emzor
+2024-12-28,Gutt Diazepam 10mg,Specialty/Emergency,48,24,2027-06-27,751,Fidson
+2024-07-17,IV Cannula (5ml),Surgicals,13,182,2026-09-11,951,Swiss Pharma
+2025-03-28,Hepatitis B Strip (10ml),Lab/Reagents,4,126,2028-08-04,751,Juhel
+2024-10-24,Syrup Losartan 5mg,Anti-Hypertensive,10,114,2027-06-16,737,MegaCare
+2023-01-30,Syrup Ketamine 5ml/250mg,Specialty/Emergency,44,200,2027-11-07,707,Fidson
+2024-08-17,Syrup Propofol 250mg,Specialty/Emergency,34,21,2028-09-05,933,Fidson
+2025-09-10,Susp Ciprofloxacin 5mg,Antibiotics,7,108,2028-07-02,746,Emzor
+2024-07-16,Cap Dextrose 5% 2g,IV Fluids,23,179,2027-09-21,636,MegaCare
+2025-04-27,Oin Paracetamol 1%,Analgesics,50,143,2026-06-26,636,Fidson
+2024-10-18,Ear Drops Atropine 10mg,Specialty/Emergency,15,149,2028-10-18,584,GSK
+2024-12-02,Gutt Diclofenac 5ml/125mg,Analgesics,44,192,2028-01-20,667,MegaCare
+2024-10-30,Gutt Glibenclamide 0.5%,Anti-Diabetic,31,175,2027-04-26,405,Juhel
+2023-12-01,Face Mask (10ml),Surgicals,28,176,2027-12-09,548,Swiss Pharma
+2025-12-14,Susp Ketamine 20mg,Specialty/Emergency,7,167,2028-04-28,799,MegaCare
+2024-10-13,Inh Insulin (Soluble) 1%,Anti-Diabetic,17,152,2028-12-11,705,Juhel
+2025-02-11,Inj Methyldopa 5ml/250mg,Anti-Hypertensive,19,151,2027-04-27,326,MegaCare
+2025-11-26,HIV Kit (5ml),Lab/Reagents,18,144,2028-05-15,997,GSK
+2023-07-10,Gutt Adrenaline 250mg,Specialty/Emergency,42,35,2028-12-05,350,MegaCare
+2026-02-27,Gutt Dextrose Saline 5ml/250mg,IV Fluids,8,137,2027-04-10,947,Emzor
+2023-09-06,Inj Ringers Lactate 250mg,IV Fluids,50,145,2026-05-24,195,Fidson
+2025-07-16,Gutt Dextrose 5% 5mg,IV Fluids,34,187,2028-09-18,741,Fidson
+2025-02-11,Inf Tramadol 2g,Analgesics,42,185,2025-05-14,796,Juhel
+2025-06-07,Inj Pentazocine 10mg,Analgesics,18,162,2028-02-05,205,GSK
+2023-04-20,Gutt Morphine 20mg,Analgesics,41,118,2028-03-17,257,Fidson
+2025-02-04,Ear Drops Adrenaline 20mg,Specialty/Emergency,23,192,2026-10-26,942,Swiss Pharma
+2023-03-26,Cap Omeprazole 250mg,Anti-Ulcer,38,49,2027-04-07,249,Emzor
+2025-06-13,Inf Sulfadoxine/Pyrimethamine 50mg,Anti-Malaria,20,168,2026-08-30,967,Emzor
+2025-12-13,Cap Amoxicillin 5ml/125mg,Antibiotics,13,130,2027-08-11,194,Fidson
+2025-08-20,Gutt Morphine 1g,Analgesics,20,127,2027-04-09,580,Emzor
+2026-02-23,Inf Glibenclamide 250mg,Anti-Diabetic,45,188,2027-09-25,319,GSK
+2025-06-27,Cap Sulfadoxine/Pyrimethamine 5mg,Anti-Malaria,32,177,2028-08-17,901,Emzor
+2025-12-21,Gutt Morphine 500mg,Analgesics,9,187,2027-02-17,426,MegaCare
+2025-03-02,Malaria RDT (5ml),Lab/Reagents,10,130,2029-01-02,439,Emzor
+2025-04-20,Inj Oxytocin 5mg,Specialty/Emergency,46,158,2027-05-27,680,GSK
+2023-04-05,Malaria RDT (Roll),Lab/Reagents,46,160,2028-09-12,594,MegaCare
+2024-11-23,IV Cannula (Pack of 50),Surgicals,27,145,2027-04-15,790,GSK
+2025-12-28,Cap Hydrocortisone 500mg,Drops/Topicals,42,104,2028-07-28,900,Emzor
+2023-05-17,Susp Azithromycin 50mg,Antibiotics,18,169,2026-10-24,417,Fidson
+2025-06-05,Inf Azithromycin 5mg,Antibiotics,47,105,2028-04-02,558,MegaCare
+2023-12-11,Susp Dextrose 5% 5ml/125mg,IV Fluids,25,143,2028-02-27,112,MegaCare
+2023-12-14,Inf Ranitidine 10mg,Anti-Ulcer,17,149,2028-05-08,612,Swiss Pharma
+2023-05-10,Oin Atropine 10mg,Specialty/Emergency,16,152,2027-08-23,608,Juhel
+2025-04-27,Inj Metformin 5mg,Anti-Diabetic,22,153,2028-05-27,247,Swiss Pharma
+2024-01-01,Inj Ranitidine 5mg,Anti-Ulcer,50,128,2027-07-03,550,Juhel
+2025-11-06,Tab Esomeprazole 0.5%,Anti-Ulcer,9,193,2026-05-21,775,MegaCare
+2023-11-07,Syrup Pentazocine 250mg,Analgesics,45,114,2028-09-02,630,MegaCare
+2026-03-27,Tab Insulin (Soluble) 5ml/250mg,Anti-Diabetic,40,129,2027-06-22,771,MegaCare
+2024-03-22,Inh Gentamicin 500mg,Drops/Topicals,45,138,2027-04-14,975,Swiss Pharma
+2023-11-22,Susp Amlodipine 5ml/125mg,Anti-Hypertensive,25,196,2027-07-30,554,Juhel
+2025-09-16,Syrup Glimepiride 100mg,Anti-Diabetic,20,145,2027-10-05,260,MegaCare
+2025-04-05,Cap Oxytocin 5mg,Specialty/Emergency,13,101,2027-12-19,933,GSK
+2023-02-08,Cap Normal Saline 100mg,IV Fluids,13,123,2028-02-26,831,Fidson
+2024-04-06,Gutt Oxytocin 20mg,Specialty/Emergency,28,139,2028-04-01,823,Fidson
+2024-12-12,Gutt Gentamicin 5mg,Drops/Topicals,26,199,2025-10-04,151,Swiss Pharma
+2023-02-16,Oin Ranitidine 1g,Anti-Ulcer,18,36,2027-09-14,902,Fidson
+2025-10-01,Susp Sulfadoxine/Pyrimethamine 0.5%,Anti-Malaria,42,180,2028-08-27,641,Fidson
+2023-01-24,Ear Drops Ranitidine 1g,Anti-Ulcer,42,186,2026-10-31,101,GSK
+2023-04-27,Oin Quinine 500mg,Anti-Malaria,30,128,2027-07-23,898,GSK
+2023-01-11,Inf Glimepiride 2g,Anti-Diabetic,42,192,2025-09-15,382,GSK
+2023-11-26,Inj Diazepam 0.5%,Specialty/Emergency,20,160,2027-12-29,228,GSK
+2024-05-25,Inh Ibuprofen 1%,Analgesics,17,119,2027-06-30,490,Juhel
+2024-04-30,Cap Nifedipine 500mg,Anti-Hypertensive,36,114,2028-06-03,414,GSK
+2024-02-15,Cap Artesunate 2g,Anti-Malaria,23,154,2028-06-14,805,MegaCare
+2025-07-12,Inj Metronidazole 250mg,Antibiotics,8,143,2027-07-15,869,GSK
+2024-08-01,Ear Drops Dextrose Saline 50mg,IV Fluids,11,177,2027-02-23,651,Juhel
+2026-02-08,Ear Drops Losartan 10mg,Anti-Hypertensive,24,137,2027-06-11,866,MegaCare
+2024-04-21,Cap Diclofenac 50mg,Analgesics,8,196,2027-11-29,873,Emzor
+2025-03-29,Tab Metformin 5ml/250mg,Anti-Diabetic,33,172,2027-09-12,903,Juhel
+2024-09-15,Inf Chloramphenicol 0.5%,Drops/Topicals,27,194,2028-08-14,416,Swiss Pharma
+2023-05-07,Gutt Hydrocortisone 250mg,Drops/Topicals,12,44,2027-04-17,571,Emzor
+2026-02-19,Inh Normal Saline 100mg,IV Fluids,18,120,2027-06-16,234,Emzor
+2024-02-09,Susp Ketamine 5ml/250mg,Specialty/Emergency,34,123,2028-05-20,231,Fidson
+2023-03-25,Tab Glibenclamide 5ml/250mg,Anti-Diabetic,34,163,2028-11-04,503,MegaCare
+2023-12-16,Gutt Diazepam 1g,Specialty/Emergency,23,181,2028-06-28,651,Fidson
+2025-03-14,Susp Quinine 1%,Anti-Malaria,24,175,2028-06-15,772,Fidson
+2025-11-30,Ear Drops Insulin (Soluble) 20mg,Anti-Diabetic,2,185,2028-07-22,521,Emzor
+2023-03-13,Oin Hydralazine 5mg,Anti-Hypertensive,32,117,2027-07-31,137,MegaCare
+2023-09-25,Ear Drops Magnesium Trisilicate 10mg,Anti-Ulcer,26,106,2026-11-13,606,Emzor
+2023-08-03,Urinalysis Strip (10ml),Lab/Reagents,10,194,2027-06-19,445,GSK
+2023-06-09,Syrup Oxytocin 100mg,Specialty/Emergency,35,172,2027-08-26,707,Emzor
+2024-02-26,Cap Azithromycin 5ml/250mg,Antibiotics,47,190,2026-09-11,229,GSK
+2023-01-11,Urinalysis Strip (5ml),Lab/Reagents,24,171,2028-05-01,402,Swiss Pharma
+2024-05-01,Hepatitis B Strip (Size 7.5),Lab/Reagents,42,187,2027-05-17,602,MegaCare
+2023-08-03,Susp Diclofenac 5ml/125mg,Analgesics,20,182,2026-11-17,633,Swiss Pharma
+2024-01-01,Inh Chloramphenicol 500mg,Drops/Topicals,49,120,2027-10-29,739,Fidson
+2025-05-21,Gutt Oxytocin 250mg,Specialty/Emergency,21,103,2028-10-31,392,Juhel
+2026-01-20,Inh Metronidazole Infusion 5ml/250mg,IV Fluids,13,34,2028-12-29,693,GSK
+2024-11-13,Cap Tramadol 100mg,Analgesics,18,138,2028-06-19,579,Emzor
+2023-05-21,Oin Metformin 5ml/125mg,Anti-Diabetic,43,189,2027-09-24,833,Emzor
+2023-10-19,Inj Metronidazole 2g,Antibiotics,25,29,2025-08-14,845,Fidson
+2023-09-18,Inh Azithromycin 250mg,Antibiotics,24,157,2026-12-13,630,Emzor
+2025-04-09,Inf Metronidazole Infusion 1g,IV Fluids,42,171,2028-12-07,417,Swiss Pharma
+2025-11-20,Oin Azithromycin 5ml/250mg,Antibiotics,8,129,2026-09-10,759,Juhel
+2023-08-25,Syrup Ciprofloxacin 250mg,Antibiotics,17,141,2028-06-15,483,Swiss Pharma
+2024-08-24,Inh Omeprazole 2g,Anti-Ulcer,27,47,2028-08-17,774,Fidson
+2024-12-26,HIV Kit (2ml),Lab/Reagents,10,106,2028-03-06,630,Fidson
+2023-03-22,Cap Metformin 10mg,Anti-Diabetic,1,118,2026-12-05,247,Juhel
+2024-01-06,Syrup Insulin (Soluble) 5ml/125mg,Anti-Diabetic,42,48,2028-08-07,578,MegaCare
+2024-01-12,Oin Artemether/Lumefantrine 5mg,Anti-Malaria,22,175,2028-04-27,870,Emzor
+2025-07-19,Inj Esomeprazole 250mg,Anti-Ulcer,18,131,2027-03-06,785,Juhel
+2024-04-23,Inh Losartan 0.5%,Anti-Hypertensive,5,198,2026-11-18,841,Emzor
+2025-02-15,Oin Hydralazine 5ml/250mg,Anti-Hypertensive,21,176,2027-11-29,576,Swiss Pharma
+2024-03-12,Inf Metformin 250mg,Anti-Diabetic,47,100,2026-10-19,954,GSK
+2025-07-25,Inf Insulin (Mixed) 2g,Anti-Diabetic,38,145,2026-11-13,881,Fidson
+2023-05-11,Inf Ibuprofen 20mg,Analgesics,48,120,2027-03-16,846,Juhel
+2025-01-21,Ear Drops Gentamicin 5ml/250mg,Drops/Topicals,8,100,2028-11-27,352,Juhel
+2023-03-17,Ear Drops Metronidazole Infusion 2g,IV Fluids,35,46,2028-09-23,214,Swiss Pharma
+2023-12-28,Syrup Cimetidine 5ml/250mg,Anti-Ulcer,30,102,2028-11-24,791,MegaCare
+2025-04-01,Inh Ketamine 1%,Specialty/Emergency,34,154,2028-12-29,985,Emzor
+2024-05-13,Syrup Lisinopril 0.5%,Anti-Hypertensive,49,176,2028-01-09,937,Emzor
+2026-01-12,Tab Adrenaline 5ml/125mg,Specialty/Emergency,22,194,2027-11-24,292,Emzor
+2025-01-26,Inj Adrenaline 20mg,Specialty/Emergency,26,148,2028-08-27,156,MegaCare
+2025-08-30,Inh Ciprofloxacin 50mg,Drops/Topicals,16,163,2027-05-03,667,Emzor
+2025-04-22,Malaria RDT (Pack of 50),Lab/Reagents,40,166,2027-01-10,942,Fidson
+2023-08-22,HIV Kit (Pack of 50),Lab/Reagents,3,170,2026-04-09,893,Emzor
+2025-03-01,Inf Amlodipine 250mg,Anti-Hypertensive,34,183,2027-05-14,237,Juhel
+2026-03-20,Susp Gentamicin 10mg,Drops/Topicals,38,109,2028-03-06,132,Juhel
+2024-04-14,Tab Insulin (Mixed) 1%,Anti-Diabetic,10,109,2027-04-08,432,Swiss Pharma
+2024-08-02,Inj Metronidazole Infusion 1g,IV Fluids,42,174,2027-01-06,763,MegaCare
+2025-02-11,Cap Esomeprazole 10mg,Anti-Ulcer,4,154,2027-10-26,365,Juhel
+2024-05-17,Susp Atropine 250mg,Specialty/Emergency,31,170,2028-10-08,245,GSK
+2023-08-17,Syrup Clindamycin 0.5%,Antibiotics,35,156,2028-01-12,844,Emzor
+2025-11-04,Inf Ciprofloxacin 50mg,Drops/Topicals,22,110,2028-03-22,592,Juhel
+2025-10-09,Tab Esomeprazole 250mg,Anti-Ulcer,11,165,2028-09-02,351,MegaCare
+2024-10-07,Cap Ringers Lactate 5ml/125mg,IV Fluids,30,142,2027-09-18,839,MegaCare
+2025-09-03,Inh Azithromycin 10mg,Antibiotics,1,114,2027-05-05,256,GSK
+2025-09-06,Susp Cimetidine 250mg,Anti-Ulcer,30,147,2026-01-13,170,GSK
+2024-07-06,Inj Esomeprazole 20mg,Anti-Ulcer,30,155,2027-08-07,719,Emzor
+2025-04-07,Syrup Losartan 250mg,Anti-Hypertensive,15,184,2027-10-25,447,Fidson
+2024-01-29,Ear Drops Silver Sulphadiazine 100mg,Drops/Topicals,16,43,2026-03-25,143,MegaCare
+2025-12-06,Cap Sulfadoxine/Pyrimethamine 0.5%,Anti-Malaria,50,105,2026-02-09,586,Juhel
+2023-06-14,Oin Dextrose 5% 5ml/125mg,IV Fluids,21,183,2027-01-16,417,Fidson
+2024-05-15,Oin Lisinopril 2g,Anti-Hypertensive,32,166,2026-10-19,162,MegaCare
+2023-08-23,Inj Ibuprofen 5mg,Analgesics,6,199,2026-08-08,694,Swiss Pharma
+2025-04-01,Inj Amlodipine 2g,Anti-Hypertensive,33,136,2027-02-02,248,Fidson
+2025-09-13,Susp Ceftriaxone 1%,Antibiotics,27,135,2027-02-08,950,Swiss Pharma
+2023-03-20,Syrup Metformin 5ml/125mg,Anti-Diabetic,31,159,2028-02-02,159,Fidson
+2025-05-14,Gutt Quinine 0.5%,Anti-Malaria,15,114,2028-01-12,335,Swiss Pharma
+2023-07-31,Inh Ciprofloxacin 500mg,Drops/Topicals,46,122,2026-12-27,213,Juhel
+2025-07-12,Ear Drops Ibuprofen 100mg,Analgesics,14,146,2028-01-12,726,Juhel
+2023-01-07,Inh Nifedipine 1%,Anti-Hypertensive,30,109,2028-12-06,143,MegaCare
+2023-11-16,Inj Insulin (Mixed) 500mg,Anti-Diabetic,21,109,2027-01-21,888,Swiss Pharma
+2023-11-14,Syrup Chloramphenicol 500mg,Drops/Topicals,27,151,2028-06-27,864,Juhel
+2023-09-13,Inh Quinine 100mg,Anti-Malaria,14,122,2028-09-18,327,Swiss Pharma
+2023-06-08,IV Cannula (10ml),Surgicals,2,134,2028-09-06,801,Fidson
+2025-12-18,Ear Drops Azithromycin 1%,Antibiotics,42,181,2026-05-25,545,GSK
+2023-08-25,Inf Cimetidine 1%,Anti-Ulcer,18,151,2028-12-23,720,Emzor
+2026-03-31,Oin Omeprazole 0.5%,Anti-Ulcer,14,183,2028-12-13,980,Fidson
+2023-04-09,HIV Kit (Size 7.0),Lab/Reagents,16,165,2027-01-12,392,Juhel
+2023-03-31,Surgical Gloves (Pack of 50),Surgicals,25,138,2026-12-22,726,MegaCare
+2025-01-20,Gutt Magnesium Trisilicate 50mg,Anti-Ulcer,36,156,2027-05-28,766,Juhel
+2023-08-30,Ear Drops Glibenclamide 100mg,Anti-Diabetic,21,135,2027-01-26,174,Emzor
+2025-11-25,Oin Propofol 2g,Specialty/Emergency,2,140,2027-03-17,852,Emzor
+2023-07-09,Cotton Wool (10ml),Surgicals,25,140,2028-08-14,854,Juhel
+2025-07-04,Susp Nifedipine 0.5%,Anti-Hypertensive,30,177,2027-04-27,767,Fidson
+2023-02-21,Inj Tramadol 0.5%,Analgesics,40,195,2027-02-14,901,Emzor
+2025-01-25,Tab Ibuprofen 1g,Analgesics,31,175,2026-11-08,734,MegaCare
+2025-12-25,Syrup Artesunate 1g,Anti-Malaria,34,14,2027-04-06,381,Emzor
+2025-11-23,Gutt Losartan 10mg,Anti-Hypertensive,7,127,2028-11-06,799,Fidson
+2023-06-30,Susp Chloramphenicol 100mg,Drops/Topicals,1,156,2028-04-17,413,GSK
+2024-06-28,Cap Insulin (Soluble) 5ml/125mg,Anti-Diabetic,16,177,2028-03-26,286,Juhel
+2025-01-21,Tab Sulfadoxine/Pyrimethamine 100mg,Anti-Malaria,44,140,2027-05-14,865,Juhel
+2023-08-12,Susp Normal Saline 500mg,IV Fluids,2,104,2028-03-06,937,GSK
+2025-12-25,Inj Sulfadoxine/Pyrimethamine 0.5%,Anti-Malaria,41,26,2027-09-29,157,Juhel
+2025-02-16,Gutt Glimepiride 10mg,Anti-Diabetic,35,177,2028-06-26,219,MegaCare
+2023-09-09,Inj Morphine 5ml/250mg,Analgesics,46,177,2027-08-09,236,Emzor
+2024-08-29,Inh Insulin (Soluble) 2g,Anti-Diabetic,34,184,2027-07-04,267,Swiss Pharma
+2023-05-19,Syrup Clindamycin 20mg,Antibiotics,10,164,2026-12-01,188,GSK
+2023-06-10,Inj Morphine 1g,Analgesics,14,192,2028-06-24,508,GSK
+2025-07-23,Cap Diazepam 5ml/250mg,Specialty/Emergency,9,176,2027-07-18,775,GSK
+2025-09-07,Inf Esomeprazole 50mg,Anti-Ulcer,20,196,2026-09-14,194,Emzor
+2025-12-22,Cap Atropine 10mg,Specialty/Emergency,22,126,2026-10-26,951,Fidson
+2024-03-02,Susp Normal Saline 0.5%,IV Fluids,26,186,2028-12-26,929,GSK
+2024-10-30,Syrup Normal Saline 10mg,IV Fluids,31,118,2026-12-21,590,Fidson
+2024-02-07,Tab Hydrocortisone 5mg,Drops/Topicals,10,165,2027-03-11,707,GSK
+2026-01-21,Inj Pentazocine 100mg,Analgesics,48,113,2027-11-17,604,Swiss Pharma
+2025-07-17,Susp Methyldopa 10mg,Anti-Hypertensive,28,193,2028-08-12,837,Swiss Pharma
+2023-01-04,Gutt Metformin 2g,Anti-Diabetic,38,110,2028-04-13,879,Fidson
+2025-12-09,Oin Artesunate 250mg,Anti-Malaria,10,153,2028-09-22,364,Swiss Pharma
+2024-10-25,Tab Silver Sulphadiazine 5ml/125mg,Drops/Topicals,48,186,2027-12-25,491,MegaCare
+2025-01-29,Susp Atropine 50mg,Specialty/Emergency,12,154,2027-03-03,758,GSK
+2026-01-22,Ear Drops Ketamine 1%,Specialty/Emergency,40,118,2027-12-03,872,MegaCare
+2025-02-05,Cap Diazepam 10mg,Specialty/Emergency,32,151,2028-08-06,919,Emzor
+2023-10-07,Susp Lisinopril 10mg,Anti-Hypertensive,46,177,2026-12-07,122,Swiss Pharma
+2025-05-10,Susp Methyldopa 0.5%,Anti-Hypertensive,30,174,2027-09-08,168,Juhel
+2024-08-28,Inh Glimepiride 1g,Anti-Diabetic,47,105,2026-11-05,454,Fidson
+2025-08-13,Gutt Ringers Lactate 5ml/125mg,IV Fluids,17,158,2027-10-24,600,Swiss Pharma
+2025-12-03,Ear Drops Esomeprazole 2g,Anti-Ulcer,23,183,2028-09-12,759,MegaCare
+2023-07-23,Inf Quinine 5ml/250mg,Anti-Malaria,8,199,2026-11-21,243,Juhel
+2026-02-14,Tab Azithromycin 5ml/125mg,Antibiotics,23,157,2027-10-08,781,MegaCare
+2025-08-12,Inf Atropine 10mg,Specialty/Emergency,28,192,2027-02-10,114,Swiss Pharma
+2023-12-12,Inf Gentamicin 2g,Drops/Topicals,39,121,2026-10-21,388,Fidson
+2025-03-02,Inf Ibuprofen 2g,Analgesics,2,171,2026-04-12,192,Emzor
+2023-09-11,Ear Drops Quinine 20mg,Anti-Malaria,24,155,2028-05-02,597,Fidson
+2023-04-24,Oin Insulin (Soluble) 20mg,Anti-Diabetic,11,135,2026-12-21,366,Fidson
+2026-01-16,Ear Drops Losartan 2g,Anti-Hypertensive,45,189,2028-03-10,482,Swiss Pharma
+2023-08-22,Inj Esomeprazole 50mg,Anti-Ulcer,5,102,2028-02-19,762,Fidson
+2023-07-05,Syrup Diazepam 100mg,Specialty/Emergency,49,191,2027-01-02,543,MegaCare
+2024-12-11,Inh Gentamicin 50mg,Drops/Topicals,9,146,2027-05-28,690,Swiss Pharma
+2025-10-26,Gutt Ibuprofen 10mg,Analgesics,14,157,2027-05-09,819,Fidson
+2024-07-05,Ear Drops Tramadol 5ml/250mg,Analgesics,47,159,2027-02-22,108,Swiss Pharma
+2023-11-10,Inj Normal Saline 250mg,IV Fluids,6,100,2025-07-27,627,GSK
+2023-08-18,Tab Diazepam 5ml/125mg,Specialty/Emergency,1,156,2028-07-04,564,GSK
+2024-02-26,Ear Drops Nifedipine 50mg,Anti-Hypertensive,20,40,2027-09-26,903,MegaCare
+2025-01-10,Ear Drops Gentamicin 0.5%,Antibiotics,47,113,2027-08-14,542,Emzor
+2025-03-14,Inh Methyldopa 10mg,Anti-Hypertensive,4,152,2027-10-21,234,Juhel
+2024-09-11,Tab Chloramphenicol 50mg,Drops/Topicals,30,143,2028-05-19,922,GSK
+2023-01-09,Ear Drops Paracetamol 5ml/250mg,Analgesics,29,183,2027-02-19,551,GSK
+2023-08-31,Inf Atropine 1%,Specialty/Emergency,12,173,2026-10-04,284,Swiss Pharma
+2024-02-05,Tab Esomeprazole 100mg,Anti-Ulcer,18,110,2028-01-05,761,Swiss Pharma
+2023-12-22,Surgical Gloves (Size 7.0),Surgicals,32,177,2028-04-10,904,Swiss Pharma
+2025-07-06,Cotton Wool (Size 7.0),Surgicals,20,42,2028-12-18,786,Juhel
+2024-08-01,Cap Losartan 5ml/125mg,Anti-Hypertensive,18,161,2028-08-11,345,Juhel
+2025-09-26,Oin Artemether/Lumefantrine 10mg,Anti-Malaria,48,132,2028-12-16,189,Swiss Pharma
+2024-11-19,Inh Amoxicillin 20mg,Antibiotics,8,124,2025-09-12,382,MegaCare
+2024-02-19,Syrup Clindamycin 5ml/125mg,Antibiotics,22,19,2028-11-30,549,Swiss Pharma
+2024-03-19,Inj Glibenclamide 5mg,Anti-Diabetic,42,24,2026-11-20,720,MegaCare
+2025-01-19,Syrup Esomeprazole 1g,Anti-Ulcer,2,177,2026-05-04,227,Emzor
+2026-02-19,Gutt Hydralazine 50mg,Anti-Hypertensive,28,100,2027-10-21,663,GSK
+2025-11-15,Ear Drops Nifedipine 5ml/125mg,Anti-Hypertensive,50,32,2027-03-28,654,Juhel
+2024-04-26,Susp Amlodipine 250mg,Anti-Hypertensive,38,106,2027-11-16,422,Fidson
+2024-04-06,Inh Propofol 5ml/125mg,Specialty/Emergency,10,168,2028-05-26,846,Emzor
+2024-11-14,Cap Hydralazine 1%,Anti-Hypertensive,34,194,2027-12-09,550,Fidson
+2024-06-20,Syrup Hydrocortisone 0.5%,Drops/Topicals,20,108,2028-07-28,528,Juhel
+2025-06-30,Oin Amlodipine 50mg,Anti-Hypertensive,7,181,2028-07-27,641,Juhel
+2025-02-28,Tab Artesunate 50mg,Anti-Malaria,47,108,2028-12-20,351,Juhel
+2024-07-16,Cap Insulin (Soluble) 5ml/250mg,Anti-Diabetic,10,164,2027-02-01,557,Juhel
+2023-11-12,Face Mask (2ml),Surgicals,40,183,2028-12-27,946,Fidson
+2025-03-27,Gutt Ringers Lactate 5ml/250mg,IV Fluids,36,183,2027-08-27,490,Juhel
+2023-03-03,Gutt Ketamine 0.5%,Specialty/Emergency,21,187,2027-03-26,752,GSK
+2024-02-17,Ear Drops Pentazocine 5ml/125mg,Analgesics,33,161,2026-06-18,620,Emzor
+2024-04-14,Ear Drops Ciprofloxacin 100mg,Antibiotics,31,177,2027-11-14,457,MegaCare
+2025-01-27,Gutt Ceftriaxone 2g,Antibiotics,15,125,2026-12-04,266,GSK
+2023-04-04,Inj Hydrocortisone 0.5%,Drops/Topicals,20,128,2027-06-04,710,Fidson
+2023-09-04,Susp Ceftriaxone 50mg,Antibiotics,16,10,2027-07-23,363,Swiss Pharma
+2024-12-18,Inf Glimepiride 1%,Anti-Diabetic,37,150,2028-07-14,227,Fidson
+2023-12-14,Gutt Diclofenac 1g,Analgesics,28,170,2027-10-01,194,Emzor
+2024-07-18,Cap Quinine 500mg,Anti-Malaria,9,171,2028-05-21,585,Emzor
+2024-02-13,Oin Metronidazole 100mg,Antibiotics,22,113,2027-07-30,809,Swiss Pharma
+2023-05-19,Tab Azithromycin 2g,Antibiotics,8,164,2028-06-09,248,Emzor
+2023-09-02,Oin Metronidazole Infusion 10mg,IV Fluids,49,150,2028-04-30,221,Fidson
+2023-02-10,Inf Clindamycin 2g,Antibiotics,20,148,2027-07-17,261,MegaCare
+2025-11-18,Tab Amoxicillin 1g,Antibiotics,29,182,2026-07-30,980,Swiss Pharma
+2025-04-20,Inf Glimepiride 10mg,Anti-Diabetic,33,130,2025-04-23,596,Swiss Pharma
+2023-06-04,Syrup Metronidazole Infusion 2g,IV Fluids,38,21,2028-05-28,754,GSK
+2024-04-12,Gutt Lisinopril 10mg,Anti-Hypertensive,6,199,2026-12-07,280,Juhel
+2025-08-22,Syrup Atropine 5ml/250mg,Specialty/Emergency,10,200,2027-04-10,589,Swiss Pharma
+2023-08-01,Inj Omeprazole 5mg,Anti-Ulcer,8,175,2027-09-24,159,Juhel
+2025-08-11,Urinalysis Strip (Pack of 50),Lab/Reagents,12,195,2025-09-25,964,MegaCare
+2025-04-13,Syrup Dextrose 5% 250mg,IV Fluids,19,189,2028-10-31,873,Juhel
+2024-09-27,Inf Hydrocortisone 250mg,Drops/Topicals,37,199,2026-10-13,108,GSK
+2024-05-02,Susp Losartan 0.5%,Anti-Hypertensive,44,166,2027-01-09,251,Juhel
+2025-10-30,Gutt Clindamycin 2g,Antibiotics,26,49,2027-12-31,355,Emzor
+2023-10-23,Cap Silver Sulphadiazine 0.5%,Drops/Topicals,24,186,2027-12-27,403,Swiss Pharma
+2025-09-01,Syrup Ketamine 100mg,Specialty/Emergency,29,151,2028-08-04,293,Emzor
+2023-01-30,Ear Drops Cimetidine 50mg,Anti-Ulcer,48,121,2027-02-17,494,GSK
+2024-07-03,Susp Magnesium Trisilicate 250mg,Anti-Ulcer,9,114,2027-06-25,957,GSK
+2024-09-22,Gutt Ketamine 5ml/125mg,Specialty/Emergency,17,136,2027-10-29,912,GSK
+2024-04-02,Tab Hydralazine 2g,Anti-Hypertensive,49,104,2027-06-27,895,Emzor
+2023-02-09,Syrup Metronidazole Infusion 500mg,IV Fluids,14,133,2028-01-26,530,Juhel
+2024-02-20,Inj Chloramphenicol 5ml/250mg,Drops/Topicals,34,200,2028-12-29,488,Emzor
+2025-01-22,Ear Drops Methyldopa 0.5%,Anti-Hypertensive,18,175,2026-11-24,370,Fidson
+2023-07-29,Inf Paracetamol 1g,Analgesics,12,137,2028-03-21,876,Emzor
+2024-04-22,Susp Ketamine 1g,Specialty/Emergency,48,117,2027-04-20,696,Swiss Pharma
+2023-04-16,Susp Morphine 2g,Analgesics,13,134,2025-06-23,626,MegaCare
+2025-04-03,Syrup Ranitidine 500mg,Anti-Ulcer,33,116,2027-11-19,903,Fidson
+2024-09-23,Oin Glibenclamide 20mg,Anti-Diabetic,18,150,2028-07-08,814,GSK
+2026-01-14,Syringe (5ml),Surgicals,18,105,2028-11-24,376,Fidson
+2023-08-13,Inh Diazepam 50mg,Specialty/Emergency,17,169,2028-10-02,311,MegaCare
+2024-02-02,Tab Clindamycin 0.5%,Antibiotics,49,180,2027-01-08,796,Emzor
+2025-01-16,Susp Gentamicin 2g,Drops/Topicals,19,121,2027-08-03,762,Emzor
+2024-03-22,Tab Ceftriaxone 0.5%,Antibiotics,48,152,2028-07-19,156,Swiss Pharma
+2025-01-08,Inj Esomeprazole 1%,Anti-Ulcer,37,149,2028-05-17,912,GSK
+2023-03-08,Ear Drops Paracetamol 250mg,Analgesics,10,109,2028-06-24,586,Juhel
+2023-10-31,Tab Glibenclamide 5mg,Anti-Diabetic,40,170,2028-02-20,413,Swiss Pharma
+2025-03-14,Susp Ciprofloxacin 5ml/250mg,Drops/Topicals,8,37,2028-12-23,666,MegaCare
+2024-11-30,Urinalysis Strip (Roll),Lab/Reagents,31,185,2027-11-20,470,Swiss Pharma
+2024-06-30,Tab Gentamicin 1%,Drops/Topicals,41,179,2028-02-28,571,MegaCare
+2023-02-28,Susp Nifedipine 250mg,Anti-Hypertensive,11,145,2027-05-10,435,Juhel
+2026-03-22,Hepatitis B Strip (Roll),Lab/Reagents,29,196,2027-04-11,351,Swiss Pharma
+2026-03-23,Inj Hydrocortisone 2g,Drops/Topicals,4,182,2027-12-25,674,Fidson
+2023-08-16,Oin Artesunate 500mg,Anti-Malaria,44,194,2026-02-16,102,MegaCare
+2023-06-24,Oin Diazepam 20mg,Specialty/Emergency,9,157,2028-09-27,441,Emzor
+2026-01-11,Ear Drops Gentamicin 20mg,Drops/Topicals,23,32,2028-02-06,698,Emzor
+2024-07-13,Ear Drops Hydralazine 100mg,Anti-Hypertensive,35,131,2025-09-14,236,MegaCare
+2026-01-24,Ear Drops Ceftriaxone 50mg,Antibiotics,8,162,2028-09-21,417,Fidson
+2025-10-25,Inf Insulin (Mixed) 100mg,Anti-Diabetic,33,195,2027-01-02,226,Fidson
+2023-03-26,Inh Artesunate 250mg,Anti-Malaria,17,123,2028-09-06,623,GSK
+2023-07-24,Tab Oxytocin 1%,Specialty/Emergency,10,193,2026-10-10,257,Juhel
+2025-12-29,Gutt Metformin 20mg,Anti-Diabetic,33,183,2027-09-02,884,MegaCare
+2024-06-01,Malaria RDT (Size 7.0),Lab/Reagents,35,161,2026-05-09,861,Fidson
+2025-08-19,Inh Omeprazole 100mg,Anti-Ulcer,25,142,2026-12-20,627,Juhel
+2024-09-28,Tab Artesunate 100mg,Anti-Malaria,50,166,2027-05-25,652,MegaCare
+2025-05-19,Syrup Normal Saline 500mg,IV Fluids,36,124,2028-05-01,482,MegaCare
+2023-05-19,Ear Drops Oxytocin 2g,Specialty/Emergency,43,151,2028-08-19,390,Juhel
+2023-04-23,Syrup Hydralazine 2g,Anti-Hypertensive,16,168,2028-02-01,273,Swiss Pharma
+2025-09-04,Syrup Esomeprazole 10mg,Anti-Ulcer,12,183,2026-12-18,493,Fidson
+2025-02-15,Inj Diazepam 5mg,Specialty/Emergency,9,121,2028-03-10,683,GSK
+2024-09-25,Susp Propofol 1%,Specialty/Emergency,42,143,2026-10-09,481,Fidson
+2025-11-11,Gutt Amoxicillin 250mg,Antibiotics,5,192,2028-07-17,118,Fidson
+2025-06-25,Cap Silver Sulphadiazine 500mg,Drops/Topicals,24,109,2026-12-23,235,MegaCare
+2025-07-13,Gutt Gentamicin 500mg,Drops/Topicals,19,134,2027-12-17,592,Juhel
+2023-01-30,Susp Omeprazole 20mg,Anti-Ulcer,28,130,2027-02-01,518,GSK
+2023-06-19,Gutt Pentazocine 1g,Analgesics,42,112,2028-07-28,365,Fidson
+2024-01-02,Ear Drops Hydrocortisone 250mg,Drops/Topicals,31,125,2026-06-02,973,Swiss Pharma
+2025-05-28,Inh Dextrose Saline 5ml/125mg,IV Fluids,23,180,2027-12-09,835,Emzor
+2023-10-25,Cap Metronidazole 250mg,Antibiotics,23,163,2027-03-19,802,MegaCare
+2024-10-15,Cap Metronidazole 2g,Antibiotics,42,171,2027-05-09,872,Juhel
+2023-08-10,Oin Ciprofloxacin 10mg,Antibiotics,7,148,2027-07-18,816,Swiss Pharma
+2023-10-05,Inj Propofol 20mg,Specialty/Emergency,2,134,2027-08-06,734,Fidson
+2023-10-17,Gutt Ibuprofen 500mg,Analgesics,3,102,2028-06-20,344,Emzor
+2023-05-14,Tab Quinine 1%,Anti-Malaria,8,8,2028-12-07,252,Emzor
+2025-11-07,Ear Drops Gentamicin 2g,Drops/Topicals,21,113,2027-10-28,821,Juhel
+2023-03-25,Inj Lisinopril 5ml/250mg,Anti-Hypertensive,10,111,2028-10-10,991,GSK
+2024-01-02,Tab Paracetamol 10mg,Analgesics,5,38,2028-07-09,1000,Juhel
+2026-01-30,Inj Ciprofloxacin 1g,Drops/Topicals,44,154,2027-11-08,142,GSK
+2023-03-22,Susp Metronidazole 5mg,Antibiotics,1,166,2027-06-17,410,MegaCare
+2025-01-15,Gutt Losartan 100mg,Anti-Hypertensive,32,185,2025-12-26,414,GSK
+2023-11-28,Tab Artemether/Lumefantrine 1g,Anti-Malaria,44,193,2028-04-06,362,Fidson
+2025-01-29,Gutt Nifedipine 100mg,Anti-Hypertensive,12,200,2027-01-21,387,Emzor
+2023-03-09,Inf Pentazocine 50mg,Analgesics,24,131,2027-01-05,839,GSK
+2023-09-23,Ear Drops Esomeprazole 5ml/125mg,Anti-Ulcer,1,175,2028-04-20,274,Swiss Pharma
+2024-04-29,Gutt Adrenaline 5ml/125mg,Specialty/Emergency,25,120,2027-12-25,330,Fidson
+2025-12-16,Gutt Silver Sulphadiazine 100mg,Drops/Topicals,22,136,2028-09-14,490,Juhel
+2023-12-03,Inh Gentamicin 1g,Drops/Topicals,15,194,2027-05-20,956,GSK
+2025-06-15,Giving Set (10ml),Surgicals,28,148,2026-08-06,772,Emzor
+2024-03-31,Tab Magnesium Trisilicate 10mg,Anti-Ulcer,24,106,2026-10-13,513,Swiss Pharma
+2024-09-08,Susp Normal Saline 1g,IV Fluids,14,175,2028-02-18,433,Swiss Pharma
+2024-06-27,Ear Drops Morphine 5ml/250mg,Analgesics,33,159,2026-11-27,494,Swiss Pharma
+2023-03-19,Syrup Quinine 5ml/125mg,Anti-Malaria,4,136,2027-03-30,501,Fidson
+2025-01-26,Susp Amoxicillin 1g,Antibiotics,3,190,2026-03-09,296,GSK
+2024-08-09,Gutt Ibuprofen 50mg,Analgesics,20,177,2027-12-12,615,GSK
+2024-12-03,Susp Propofol 500mg,Specialty/Emergency,12,38,2027-09-09,758,GSK
+2023-08-07,Inf Metformin 5mg,Anti-Diabetic,14,168,2026-08-27,900,GSK
+2024-01-11,Susp Pentazocine 5mg,Analgesics,48,189,2028-05-03,931,Fidson
+2024-06-06,Susp Esomeprazole 5ml/125mg,Anti-Ulcer,13,151,2027-07-12,712,Swiss Pharma
+2025-07-16,Syrup Artemether/Lumefantrine 20mg,Anti-Malaria,50,138,2027-01-03,913,Emzor
+2024-11-08,Inf Sulfadoxine/Pyrimethamine 5mg,Anti-Malaria,4,131,2027-05-25,981,Fidson
+2026-01-10,Oin Gentamicin 5mg,Drops/Topicals,7,34,2026-06-20,776,Swiss Pharma
+2023-04-04,Oin Dextrose Saline 500mg,IV Fluids,23,155,2028-05-14,375,Juhel
+2025-01-31,Oin Normal Saline 0.5%,IV Fluids,2,130,2028-09-18,328,Emzor
+2024-04-01,Cotton Wool (Roll),Surgicals,6,125,2027-10-28,610,MegaCare
+2025-07-13,Cap Tramadol 2g,Analgesics,38,105,2028-06-07,886,GSK
+2024-10-02,Oin Morphine 100mg,Analgesics,41,43,2028-11-09,954,GSK
+2023-09-06,Cap Hydralazine 5mg,Anti-Hypertensive,27,104,2027-05-30,381,GSK
+2024-12-27,Ear Drops Adrenaline 50mg,Specialty/Emergency,6,125,2025-11-02,458,MegaCare
+2026-03-21,Gutt Sulfadoxine/Pyrimethamine 5ml/250mg,Anti-Malaria,26,130,2027-02-10,163,Swiss Pharma
+2024-04-25,Susp Morphine 1g,Analgesics,25,160,2027-01-19,618,Fidson
+2023-06-17,Inh Normal Saline 0.5%,IV Fluids,5,159,2025-10-28,991,Fidson
+2024-02-18,Susp Silver Sulphadiazine 20mg,Drops/Topicals,9,194,2026-10-06,493,Juhel
+2024-04-20,Ear Drops Oxytocin 5mg,Specialty/Emergency,48,158,2026-10-30,318,GSK
+2026-01-04,Ear Drops Glibenclamide 1g,Anti-Diabetic,26,132,2029-01-03,508,Juhel
+2025-11-07,Syrup Hydralazine 0.5%,Anti-Hypertensive,10,137,2027-12-09,813,Emzor
+2025-03-07,Oin Metronidazole Infusion 250mg,IV Fluids,15,165,2027-01-22,744,Fidson
+2023-12-24,Inf Azithromycin 50mg,Antibiotics,11,122,2026-06-17,424,GSK
+2025-01-08,Tab Metronidazole Infusion 5ml/250mg,IV Fluids,47,194,2026-07-14,330,Swiss Pharma
+2023-08-20,Ear Drops Normal Saline 50mg,IV Fluids,4,125,2027-08-18,555,Swiss Pharma
+2025-08-25,Gutt Diazepam 100mg,Specialty/Emergency,11,108,2026-07-18,406,MegaCare
+2024-02-16,Inj Ringers Lactate 5mg,IV Fluids,33,192,2029-01-06,705,Emzor
+2024-09-28,Inh Adrenaline 0.5%,Specialty/Emergency,26,123,2028-03-24,758,Swiss Pharma
+2024-02-02,Inh Nifedipine 1g,Anti-Hypertensive,33,188,2027-12-18,467,Juhel
+2023-03-07,Ear Drops Insulin (Mixed) 5ml/125mg,Anti-Diabetic,6,166,2027-08-21,529,Swiss Pharma
+2025-08-31,Oin Metformin 0.5%,Anti-Diabetic,27,142,2027-03-24,676,GSK
+2023-05-04,Syrup Ringers Lactate 10mg,IV Fluids,40,108,2028-02-11,313,Juhel
+2025-10-11,Ear Drops Insulin (Mixed) 5ml/250mg,Anti-Diabetic,31,102,2027-08-04,999,Juhel
+2025-02-18,Oin Ranitidine 500mg,Anti-Ulcer,3,192,2027-02-11,587,Juhel
+2024-08-18,Cap Oxytocin 20mg,Specialty/Emergency,25,145,2027-04-29,773,Swiss Pharma
+2024-02-29,Ear Drops Ibuprofen 2g,Analgesics,9,128,2028-10-09,584,Fidson
+2024-10-01,Syrup Ciprofloxacin 1g,Antibiotics,3,104,2027-01-06,878,GSK
+2024-11-11,Inj Ceftriaxone 5ml/250mg,Antibiotics,48,188,2027-09-27,653,Juhel
+2025-11-02,Inh Ceftriaxone 50mg,Antibiotics,38,148,2026-10-05,449,Juhel
+2023-05-26,Cap Artesunate 100mg,Anti-Malaria,46,175,2027-08-20,741,GSK
+2025-11-22,Tab Methyldopa 0.5%,Anti-Hypertensive,5,133,2027-08-14,983,Juhel
+2024-09-10,Syringe (10ml),Surgicals,45,137,2027-08-17,869,Juhel
+2025-10-08,Inj Propofol 250mg,Specialty/Emergency,37,173,2026-05-16,626,Juhel
+2023-11-10,Inh Cimetidine 500mg,Anti-Ulcer,15,192,2028-02-02,991,GSK
+2025-11-28,Ear Drops Ciprofloxacin 50mg,Drops/Topicals,12,105,2027-07-30,167,Swiss Pharma
+2024-12-19,Cap Glibenclamide 10mg,Anti-Diabetic,30,34,2028-05-19,872,Emzor
+2026-02-02,Gutt Insulin (Soluble) 5ml/250mg,Anti-Diabetic,3,146,2028-03-03,616,GSK
+2024-02-26,Ear Drops Metronidazole 1g,Antibiotics,41,179,2027-01-10,445,Emzor
+2023-09-16,Ear Drops Lisinopril 0.5%,Anti-Hypertensive,1,142,2028-12-11,276,MegaCare
+2024-03-06,Syrup Dextrose Saline 1g,IV Fluids,44,28,2026-05-01,250,Juhel
+2023-04-06,Inf Oxytocin 1g,Specialty/Emergency,29,166,2028-05-05,884,GSK
+2023-06-22,Ear Drops Quinine 2g,Anti-Malaria,17,136,2026-12-05,316,MegaCare
+2023-11-07,Syringe (Size 7.5),Surgicals,1,148,2028-11-28,656,Fidson
+2023-01-24,Oin Insulin (Soluble) 5ml/125mg,Anti-Diabetic,3,177,2028-07-04,840,MegaCare
+2025-07-22,Gutt Silver Sulphadiazine 50mg,Drops/Topicals,43,196,2028-04-06,230,Juhel
+2024-09-03,Ear Drops Dextrose Saline 250mg,IV Fluids,25,137,2027-01-05,411,MegaCare
+2025-10-26,Inh Lisinopril 10mg,Anti-Hypertensive,49,180,2027-08-14,386,Swiss Pharma
+2025-02-15,Inh Atropine 5ml/250mg,Specialty/Emergency,17,129,2026-04-21,398,Swiss Pharma
+2025-01-20,Hepatitis B Strip (5ml),Lab/Reagents,42,113,2027-02-24,691,Emzor
+2024-10-20,Cap Normal Saline 1g,IV Fluids,25,160,2027-01-11,821,Juhel
+2025-07-07,Oin Nifedipine 20mg,Anti-Hypertensive,25,12,2027-06-16,822,MegaCare
+2026-01-26,Susp Gentamicin 0.5%,Antibiotics,31,114,2027-10-04,384,GSK
+2024-07-20,Ear Drops Sulfadoxine/Pyrimethamine 500mg,Anti-Malaria,9,126,2027-08-29,611,Juhel
+2025-07-16,Inf Azithromycin 100mg,Antibiotics,33,132,2028-02-22,283,Emzor
+2023-02-01,Inh Amlodipine 1g,Anti-Hypertensive,20,182,2028-11-15,542,GSK
+2023-12-14,Inj Diazepam 250mg,Specialty/Emergency,29,152,2027-01-09,144,Juhel
+2023-05-06,Tab Quinine 250mg,Anti-Malaria,2,163,2027-06-29,615,Juhel
+2024-04-15,Inf Dextrose 5% 5ml/250mg,IV Fluids,21,129,2027-10-13,225,GSK
+2024-02-22,Inj Glimepiride 0.5%,Anti-Diabetic,3,41,2028-03-23,848,Juhel
+2023-08-17,Inf Insulin (Soluble) 2g,Anti-Diabetic,4,140,2027-11-26,938,Emzor
+2025-04-24,Inj Ciprofloxacin 5ml/250mg,Antibiotics,11,186,2028-01-27,286,Emzor
+2023-03-09,Susp Azithromycin 0.5%,Antibiotics,28,171,2027-12-16,906,GSK
+2023-01-09,Susp Chloramphenicol 1g,Drops/Topicals,39,187,2028-02-06,245,GSK
+2024-04-03,Inf Gentamicin 0.5%,Antibiotics,17,36,2027-12-28,660,GSK
+2025-10-18,Oin Ciprofloxacin 1%,Drops/Topicals,6,182,2027-08-28,497,Emzor
+2025-06-15,Ear Drops Hydralazine 2g,Anti-Hypertensive,25,132,2027-01-26,617,Fidson
+2024-02-21,Gutt Clindamycin 500mg,Antibiotics,34,172,2026-09-17,565,Juhel
+2023-03-30,Ear Drops Hydralazine 5mg,Anti-Hypertensive,24,136,2028-04-27,662,Juhel
+2023-08-09,Inf Silver Sulphadiazine 5ml/125mg,Drops/Topicals,45,159,2026-12-08,567,Fidson
+2025-05-02,Inh Metronidazole Infusion 1g,IV Fluids,10,123,2027-04-25,330,Emzor
+2023-03-13,Gutt Losartan 250mg,Anti-Hypertensive,44,135,2027-07-22,559,Swiss Pharma
+2023-05-05,Tab Ibuprofen 1%,Analgesics,30,170,2027-05-30,211,MegaCare
+2025-01-12,Inj Sulfadoxine/Pyrimethamine 50mg,Anti-Malaria,19,163,2027-06-13,480,Emzor
+2024-06-10,Susp Cimetidine 20mg,Anti-Ulcer,34,137,2028-11-03,608,GSK
+2024-10-24,Tab Pentazocine 100mg,Analgesics,1,185,2026-12-12,603,Emzor
+2023-12-22,Gutt Quinine 10mg,Anti-Malaria,30,45,2028-03-07,134,Juhel
+2026-02-26,Inh Esomeprazole 5ml/125mg,Anti-Ulcer,13,123,2028-05-26,187,Fidson
+2023-08-16,Inj Insulin (Soluble) 1%,Anti-Diabetic,26,143,2026-11-10,524,GSK
+2024-06-17,Tab Ranitidine 250mg,Anti-Ulcer,25,161,2028-01-06,837,GSK
+2025-11-08,Inj Methyldopa 1%,Anti-Hypertensive,20,129,2027-07-08,646,GSK
+2024-01-06,Gutt Hydrocortisone 5ml/250mg,Drops/Topicals,6,125,2026-11-05,964,MegaCare
+2023-08-31,Gutt Dextrose Saline 5mg,IV Fluids,46,180,2028-05-10,113,MegaCare
+2024-02-09,Cap Pentazocine 5ml/250mg,Analgesics,47,133,2028-06-15,228,Swiss Pharma
+2023-09-21,Cap Ranitidine 1g,Anti-Ulcer,27,200,2027-12-04,322,Emzor
+2024-11-13,Inh Propofol 50mg,Specialty/Emergency,48,125,2028-06-06,840,Juhel
+2023-12-08,Tab Hydrocortisone 5ml/250mg,Drops/Topicals,23,168,2027-06-20,846,GSK
+2024-11-25,Inh Esomeprazole 5ml/250mg,Anti-Ulcer,20,121,2027-07-24,106,MegaCare
+2024-06-30,Inf Cimetidine 0.5%,Anti-Ulcer,25,150,2028-05-17,233,Juhel
+2024-11-15,Cap Normal Saline 5mg,IV Fluids,21,102,2027-02-15,223,MegaCare
+2024-01-08,Gutt Hydralazine 1g,Anti-Hypertensive,4,197,2027-08-29,877,Swiss Pharma
+2023-05-02,Inh Glimepiride 0.5%,Anti-Diabetic,6,160,2026-10-30,320,MegaCare
+2024-01-26,Tab Insulin (Mixed) 20mg,Anti-Diabetic,36,168,2028-05-12,597,MegaCare
+2024-04-29,Cap Diclofenac 0.5%,Analgesics,25,134,2028-01-16,741,Fidson
+2023-11-11,Inh Artemether/Lumefantrine 100mg,Anti-Malaria,12,155,2027-12-05,129,Emzor
+2024-02-29,Gutt Insulin (Mixed) 1%,Anti-Diabetic,43,175,2027-10-01,553,Juhel
+2023-03-16,Syrup Paracetamol 1g,Analgesics,47,174,2026-12-12,361,MegaCare
+2023-10-19,Ear Drops Ibuprofen 20mg,Analgesics,12,151,2027-04-14,763,MegaCare
+2025-06-22,Inh Chloramphenicol 5ml/125mg,Drops/Topicals,1,163,2027-03-31,292,Emzor
+2023-03-11,Gutt Hydralazine 2g,Anti-Hypertensive,9,178,2028-05-05,950,MegaCare
+2026-02-22,Syrup Silver Sulphadiazine 1%,Drops/Topicals,8,156,2027-02-12,289,GSK
+2025-07-26,Inj Dextrose 5% 500mg,IV Fluids,7,110,2027-05-29,647,Swiss Pharma
+2023-04-26,Inj Metronidazole Infusion 20mg,IV Fluids,35,176,2027-03-04,353,Fidson
+2025-04-19,Cap Sulfadoxine/Pyrimethamine 5ml/125mg,Anti-Malaria,21,186,2028-03-15,946,Emzor
+2025-08-10,Giving Set (5ml),Surgicals,37,130,2027-12-09,896,Emzor
+2025-04-16,Inf Hydralazine 50mg,Anti-Hypertensive,35,198,2027-07-11,425,MegaCare
+2023-04-15,Gutt Chloramphenicol 2g,Drops/Topicals,10,187,2026-11-15,974,Juhel
+2023-08-30,Oin Artemether/Lumefantrine 2g,Anti-Malaria,45,42,2027-04-09,207,Emzor
+2024-11-29,Inf Ringers Lactate 1%,IV Fluids,22,156,2026-09-21,550,Emzor
+2026-02-02,Oin Diclofenac 100mg,Analgesics,5,145,2027-10-27,714,Fidson
+2023-10-18,Inh Nifedipine 250mg,Anti-Hypertensive,14,131,2026-10-03,408,Juhel
+2024-11-07,Cap Diazepam 1%,Specialty/Emergency,13,169,2026-04-16,120,Swiss Pharma
+2023-01-05,Oin Ciprofloxacin 1g,Drops/Topicals,42,109,2028-06-11,350,Swiss Pharma
+2025-04-13,Susp Dextrose 5% 5mg,IV Fluids,2,107,2027-12-04,658,Fidson
+2023-03-15,Syrup Ketamine 250mg,Specialty/Emergency,42,186,2028-05-09,907,Fidson
+2023-11-14,Inh Dextrose 5% 5ml/125mg,IV Fluids,20,179,2028-05-06,919,Emzor
+2023-05-05,Gutt Dextrose 5% 5ml/250mg,IV Fluids,4,148,2028-11-03,194,GSK
+2024-03-02,Syrup Metronidazole Infusion 0.5%,IV Fluids,35,155,2028-05-04,292,Emzor
+2023-01-30,Inf Hydralazine 1%,Anti-Hypertensive,25,140,2027-11-15,422,Juhel
+2024-09-27,Ear Drops Gentamicin 250mg,Drops/Topicals,1,103,2027-03-25,523,Juhel
+2024-11-11,Gutt Sulfadoxine/Pyrimethamine 50mg,Anti-Malaria,22,164,2026-11-01,887,Swiss Pharma
+2024-08-24,Inj Amoxicillin 0.5%,Antibiotics,22,134,2026-10-27,808,Fidson
+2023-10-28,Ear Drops Morphine 0.5%,Analgesics,28,141,2027-03-02,946,MegaCare
+2025-09-01,Inf Diazepam 1g,Specialty/Emergency,26,116,2026-11-06,246,Fidson
+2024-12-24,Oin Ciprofloxacin 5ml/125mg,Drops/Topicals,33,198,2028-04-26,552,Swiss Pharma
+2024-11-25,Gutt Nifedipine 10mg,Anti-Hypertensive,18,23,2028-06-25,545,MegaCare
+2025-11-22,Ear Drops Esomeprazole 250mg,Anti-Ulcer,37,149,2028-06-30,540,Fidson
+2025-04-21,Tab Magnesium Trisilicate 100mg,Anti-Ulcer,30,146,2026-12-19,270,GSK
+2024-03-22,Gutt Metformin 5ml/125mg,Anti-Diabetic,14,104,2028-08-21,443,Juhel
+2023-08-26,Oin Glibenclamide 500mg,Anti-Diabetic,44,121,2027-09-20,962,Swiss Pharma
+2025-04-10,Ear Drops Quinine 10mg,Anti-Malaria,42,151,2028-04-12,865,Fidson
+2024-12-27,Gutt Artemether/Lumefantrine 250mg,Anti-Malaria,27,131,2027-02-24,566,Fidson
+2025-12-11,Cotton Wool (2ml),Surgicals,43,152,2028-02-08,737,Swiss Pharma
+2023-07-23,Oin Normal Saline 1g,IV Fluids,12,164,2028-05-02,646,Swiss Pharma
+2023-09-22,Inh Insulin (Mixed) 0.5%,Anti-Diabetic,14,186,2027-01-14,925,Fidson
+2023-09-06,Inj Dextrose 5% 1%,IV Fluids,7,181,2027-04-15,338,Swiss Pharma
+2023-04-23,Giving Set (Size 7.0),Surgicals,7,36,2027-12-20,288,Juhel
+2024-10-04,Inf Hydralazine 10mg,Anti-Hypertensive,32,164,2027-08-19,987,Swiss Pharma
+2026-03-14,Syrup Insulin (Mixed) 1g,Anti-Diabetic,13,174,2027-02-27,973,MegaCare
+2026-02-28,Inj Losartan 500mg,Anti-Hypertensive,13,176,2028-09-04,258,Swiss Pharma
+2025-05-16,Inf Ranitidine 1%,Anti-Ulcer,35,130,2028-07-12,605,Swiss Pharma
+2025-06-12,Inh Losartan 100mg,Anti-Hypertensive,6,144,2028-05-05,190,Fidson
+2026-03-12,Ear Drops Hydrocortisone 0.5%,Drops/Topicals,50,129,2025-09-17,266,Emzor
+2023-11-10,Inh Azithromycin 5ml/250mg,Antibiotics,15,115,2025-09-19,135,GSK
+2026-02-18,Syrup Diazepam 0.5%,Specialty/Emergency,21,192,2027-04-22,117,MegaCare
+2024-02-18,Inh Dextrose 5% 20mg,IV Fluids,19,171,2027-09-26,424,MegaCare
+2024-02-06,Oin Amoxicillin 500mg,Antibiotics,31,119,2028-10-19,979,MegaCare
+2024-01-17,Ear Drops Glimepiride 2g,Anti-Diabetic,49,116,2028-09-03,910,GSK
+2024-01-06,Inj Clindamycin 250mg,Antibiotics,9,130,2026-11-20,729,GSK
+2023-03-21,Syrup Metronidazole 500mg,Antibiotics,48,108,2028-03-14,532,GSK
+2025-07-23,Oin Chloramphenicol 0.5%,Drops/Topicals,19,179,2028-07-04,325,GSK
+2024-11-17,Cap Atropine 50mg,Specialty/Emergency,18,156,2028-02-16,816,MegaCare
+2024-12-15,Inj Glibenclamide 5ml/250mg,Anti-Diabetic,11,143,2026-05-07,531,Swiss Pharma
+2025-03-11,Cap Ringers Lactate 2g,IV Fluids,31,166,2027-06-12,214,Emzor
