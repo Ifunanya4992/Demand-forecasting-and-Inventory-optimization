@@ -2,7 +2,7 @@
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/40e20fd7-91cb-4381-b791-fe0c12604998" />
 
 ##PROJECT OVERVIEW
-# I addressed  the critical challenge of medical waste and stockouts in hospital pharmacies. By integrating Machine Learning (Python) with Business Intelligence (Power BI), I developed a predictive system that forecasts drug demand and automates inventory alerts. This tool helps hospital administrators transition from reactive ordering to a proactive, data-driven supply chain.
+I addressed  the critical challenge of medical waste and stockouts in hospital pharmacies. By integrating Machine Learning (Python) with Business Intelligence (Power BI), I developed a predictive system that forecasts drug demand and automates inventory alerts. This tool helps hospital administrators transition from reactive ordering to a proactive, data-driven supply chain.
 
 ## Objectives
 #Predict future drug demand using machine learning 
